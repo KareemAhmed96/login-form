@@ -1,4 +1,4 @@
 # login-form
 Simple login page using HTML, CSS, and native JavaScript
 
-!(imgs/Screenshot 2021-02-15 103818.png)
+!(https://github.com/KareemAhmed96/login-form/blob/main/imgs/Screenshot%202021-02-15%20103818.png)
